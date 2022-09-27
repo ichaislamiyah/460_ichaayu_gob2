@@ -1,0 +1,17 @@
+Web Service: > golang
+2. Terhubung ke database
+        > mysql (mariadb free) / postgree / sql server (terstruktur)
+        > mongodbl, graphl > unstruktur > mobile/server side (luas/kongkrit/strict)
+3. Heroku > online cloud free
+    > docker > container
+4. cpanel, aapanel, VPS, dsb 
+    >git > push aplikasi ke server **
+    > ftp > push aplikasi ke server
+    > upload file manager/ extract.zip
+5. ssh access (putty, terminus, bitvisesh)
+    >create ssh > key.apk 
+    >load di apss putty bitvise 
+6. config domain/baseurl
+7. config database
+8. setting ssl > ssl gratis zerossl 
+9. sudah live production aplikasi
